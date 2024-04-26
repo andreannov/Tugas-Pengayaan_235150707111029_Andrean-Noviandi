@@ -1,4 +1,4 @@
-
+package tugas2pengayaan;
 
 public class Meja {
     private int nomorMeja;
