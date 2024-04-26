@@ -1,4 +1,4 @@
-
+package tugas2pengayaan;
 
 import java.util.Scanner;
 
